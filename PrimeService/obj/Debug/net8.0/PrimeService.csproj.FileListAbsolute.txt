@@ -1,0 +1,11 @@
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.dll
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.dll
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
