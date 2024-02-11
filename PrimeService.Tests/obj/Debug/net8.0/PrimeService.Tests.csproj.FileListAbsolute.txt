@@ -100,3 +100,4 @@ C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeSer
 C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\net8.0\PrimeService.Tests.pdb
 C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\net8.0\PrimeService.Tests.genruntimeconfig.cache
 C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\net8.0\ref\PrimeService.Tests.dll
+C:\Users\abbal\OneDrive\Desktop\CIDM4390\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\net8.0\PrimeService.Tests.sourcelink.json
